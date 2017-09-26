@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{75DB0549-E187-4384-9755-8D29E2E8E5C3}"
+	ProjectSection(SolutionItems) = preProject
+		Links.txt = Links.txt
+		Notes.txt = Notes.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeCorp.RedisSpike.Console", "AcmeCorp.RedisSpike.Console\AcmeCorp.RedisSpike.Console.csproj", "{7BCCA6F7-077E-4670-A27E-4D874EA9849A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BCCA6F7-077E-4670-A27E-4D874EA9849A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCCA6F7-077E-4670-A27E-4D874EA9849A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCCA6F7-077E-4670-A27E-4D874EA9849A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCCA6F7-077E-4670-A27E-4D874EA9849A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA6AB2AF-C448-41D1-A256-61CB520D5B2C}
+	EndGlobalSection
+EndGlobal

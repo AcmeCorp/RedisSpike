@@ -1,0 +1,1 @@
+Install directory from Chocolatey - "C:\ProgramData\chocolatey\lib\redis-64"

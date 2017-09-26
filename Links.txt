@@ -1,0 +1,7 @@
+AWS ElastiCache
+http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/GettingStarted.WhereGoFromHere.html
+
+Reddis
+https://github.com/MicrosoftArchive/redis
+https://chocolatey.org/packages/redis-64
+https://redis.io/clients#c
